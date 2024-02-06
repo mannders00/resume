@@ -22,7 +22,7 @@ A flexible full stack boilerplate with everything you need to build, deploy, val
 Uses Generative AI to generates tasks, sample images, and outlines other essential requirements to bring your project to life.
 
   - Instantly recognizing the value of OpenAI APIs, built an early POC project planner using GPT-3.5 and DALL-E 2.
-  - Used Golang stdlib, OpenAI APIs, Ory Kratos, and Linux to deploy.
+  - Used Golang stdlib, OpenAI APIs, Ory Kratos, and Linux to build and deploy.
 
 
 ### <span>[Linux](https://github.com/mannders00/dotfiles)</span> <span>2016 -- Present</span>
