@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Richard Hendricks</title>
+<title>Matt Anderson</title>
 <style>
 body {
     color: #000000;
@@ -84,6 +84,11 @@ h1 + ul + p {
         box-shadow: none;
         -webkit-box-shadow: none;
     }
+    /* Do not underline abbr tags in PDF */
+    abbr {
+        text-decoration: none;
+        font-variant: none;
+    }
     /* Make links black in PDF */
     /* Move this outside the print block to apply this in HTML too */
     a, a:link, a:visited, a:hover {
@@ -118,59 +123,69 @@ h1 + ul + p {
 </head>
 <body>
 <div id="resume">
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-<h1>Richard Hendricks</h1>
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
+<h1>Matt Anderson</h1>
 <ul>
-<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#46;&#104;&#101;&#110;&#100;&#114;&#105;&#107;&#115;&#64;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#46;&#104;&#101;&#110;&#100;&#114;&#105;&#107;&#115;&#64;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
-<li>(912) 555-4321</li>
-<li><a href="http://richardhendricks.example.com">richardhendricks.example.com</a></li>
-<li>San Francisco, CA</li>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#97;&#116;&#116;&#97;&#48;&#48;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#97;&#116;&#116;&#97;&#48;&#48;&#64;&#112;&#114;&#111;&#116;&#111;&#110;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>(224) 636-3719</li>
+<li><a href="https://www.manders.us/">manders.us</a></li>
+<li>Chicago, IL</li>
 </ul>
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-<p>CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.</p>
-<h2>Experience</h2>
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-<h3><span>CEO/President, Pied Piper</span> <span>Dec 2013 &ndash; Dec 2014</span></h3>
-<p>Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.</p>
-<ul>
-<li>Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws</li>
-<li>Successfully won Techcrunch Disrupt</li>
-<li>Optimized an algorithm that holds the current world record for Weisman Scores</li>
-</ul>
-<h3><span>Teacher, CoderDojo</span> <span>July 2013 &ndash; Dec 2013</span></h3>
-<p>Global movement of free coding clubs for young people.</p>
-<ul>
-<li>Awarded &lsquo;Teacher of the Month&rsquo;</li>
-</ul>
+<p>Full Stack Engineer specializing in Python, Go, and Docker.</p>
 <h2>Projects</h2>
-<h3><span>Miss Direction</span> <span>Aug 2016</span></h3>
-<p>A mapping engine that misguides you:</p>
+<h3><span><a href="https://deploysolo.com">DeploySolo</a></span> <span>Jan 2024</span></h3>
+<p>A flexible full stack boilerplate with everything you need to build, deploy, validate, and monetize your web app.</p>
 <ul>
-<li>Won award at AIHacks 2016</li>
-<li>Built by all women team of newbie programmers</li>
-<li>Using modern technologies such as GoogleMaps, Chrome Extension and Javascript</li>
+<li>Concieved, designed, built, deployed, and marketed a full stack application using Django, EC2, and Docker.</li>
+<li>Learned the entire full stack from a Linux server to a monetized, user friendly application.</li>
+<li>Built small community and acquired multiple paid users.</li>
+</ul>
+<h3><span><a href="https://www.blueproject.info/">BlueProject</a></span> <span>May 2023</span></h3>
+<p>Uses Generative AI to generates tasks, sample images, and outlines other essential requirements to bring your project to life.</p>
+<ul>
+<li>Instantly recognizing the value of OpenAI APIs, built an early POC project planner using GPT-3.5 and DALL-E 2.</li>
+<li>Used Golang stdlib, OpenAI APIs, Ory Kratos, and Linux to deploy.</li>
+</ul>
+<h3><span><a href="https://github.com/mannders00/dotfiles">Linux</a></span> <span>2016 &ndash; Present</span></h3>
+<p>Explored Linux out of curiosity.</p>
+<ul>
+<li>Use Debian for personal servers and desktops.</li>
+<li>Built desktop from scratch using Arch Linux with i3.</li>
+<li>Use neovim as a daily editor with custom configuration and LSP support.</li>
+</ul>
+<h2>Experience</h2>
+<h3><span>Software Engineer, TIBCO Software </span> <span>May 2020 &ndash; Present</span></h3>
+<ul>
+<li>Rapidly assumed role of primary maintainer for MSGMX, a Python CLI for managing messaging systems, within two years of hiring.</li>
+<li>Implemented GitHub Actions CI/CD workflows for automated building and testing in the cloud, saving hours of manual regression testing.
+ saving hours of manual API documentation.</li>
+</ul>
+<h3><span>Self Driving Research, IIT MMAE Department</span> <span>October 2019 &ndash; December 2020</span></h3>
+<ul>
+<li>Worked with a team of 5 to create a realistic driving simulator for a user to experience traffic</li>
+<li>Used C# and Unity3D to program a dynamic environment with moving traffic and changing traffic lights.</li>
 </ul>
 <h2>Education</h2>
-<h3><span>University of Oklahoma, BA Information Technology</span> <span>2011 &ndash; 2014</span></h3>
+<h3><span>Illinois Institute of Technology, BS Computer Science</span> <span>2018 &ndash; 2021</span></h3>
 <ul>
-<li>GPA 4.0</li>
-<li>DB1101 - Basic SQL</li>
-<li>CS2011 - Java Introduction</li>
+<li>GPA 3.6</li>
+<li>CS450 - Operating Systems</li>
+<li>CS331 - Data Structures and Algorithms</li>
+<li>MATH474 - Probability and Statistics</li>
+<li>Tested out of 8 college classes in High School through AP Courses.</li>
+<li>Graduated a year early.</li>
+</ul>
+<h3><span>Data Structures and OOP TA</span> <span>August 2019 &ndash; May 2020</span></h3>
+<ul>
+<li>Independently hosted TA sessions for Data Structures and Algorithms in Python, introducing concepts such as time
+complexity, space complexity, linked lists, trees, and more.</li>
+<li>Helped teach Java to introductory computer science students, including basic programming and OOP principles
+such as objects, arrays, loops, and more.</li>
 </ul>
 <h2>Skills</h2>
 <ul>
-<li>Web development: HTML, CSS, JavaScript</li>
-<li>Compression: Mpeg, MP4, GIF</li>
+<li>Backend: Python (Django), Golang, Docker</li>
+<li>Frontend: HTMX, HTML/CSS, Bootstrap</li>
+<li>Linux Proficiency (Debian)</li>
 </ul></div>
 </body>
 </html>

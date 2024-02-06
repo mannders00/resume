@@ -1,60 +1,71 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Matt Anderson
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+- <matta00@protonmail.com>
+- (224) 636-3719
+- [manders.us](https://www.manders.us/)
+- Chicago, IL
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
-
-## Experience
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
-
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
-
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
+Full Stack Engineer specializing in Python, Go, and Docker.
 
 ## Projects
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### <span>[DeploySolo](https://deploysolo.com)</span> <span>Jan 2024</span>
 
-A mapping engine that misguides you:
+A flexible full stack boilerplate with everything you need to build, deploy, validate, and monetize your web app.
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+   - Concieved, designed, built, deployed, and marketed a full stack application using Django, EC2, and Docker.
+   - Learned the entire full stack from a Linux server to a monetized, user friendly application.
+   - Built small community and acquired multiple paid users.
+
+### <span>[BlueProject](https://www.blueproject.info/)</span> <span>May 2023</span>
+
+Uses Generative AI to generates tasks, sample images, and outlines other essential requirements to bring your project to life.
+
+  - Instantly recognizing the value of OpenAI APIs, built an early POC project planner using GPT-3.5 and DALL-E 2.
+  - Used Golang stdlib, OpenAI APIs, Ory Kratos, and Linux to deploy.
+
+
+### <span>[Linux](https://github.com/mannders00/dotfiles)</span> <span>2016 -- Present</span>
+
+Explored Linux out of curiosity.
+
+  - Use Debian for personal servers and desktops.
+  - Built desktop from scratch using Arch Linux with i3.
+  - Use neovim as a daily editor with custom configuration and LSP support.
+
+## Experience
+
+### <span>Software Engineer, TIBCO Software </span> <span>May 2020 -- Present</span>
+
+ - Rapidly assumed role of primary maintainer for MSGMX, a Python CLI for managing messaging systems, within two years of hiring.
+ - Implemented GitHub Actions CI/CD workflows for automated building and testing in the cloud, saving hours of manual regression testing.
+ saving hours of manual API documentation.
+
+### <span>Self Driving Research, IIT MMAE Department</span> <span>October 2019 -- December 2020</span>
+
+- Worked with a team of 5 to create a realistic driving simulator for a user to experience traffic
+- Used C# and Unity3D to program a dynamic environment with moving traffic and changing traffic lights.
 
 ## Education
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+### <span>Illinois Institute of Technology, BS Computer Science</span> <span>2018 -- 2021</span>
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+  - GPA - 3.6
+  - CS450 - Operating Systems
+  - CS331 - Data Structures and Algorithms
+  - MATH474 - Probability and Statistics
+  - Tested out of 8 college classes in High School through AP Courses.
+  - Graduated a year early.
+
+### <span>Data Structures and OOP TA</span> <span>August 2019 -- May 2020</span>
+
+  - Independently hosted TA sessions for Data Structures and Algorithms in Python, introducing concepts such as time
+complexity, space complexity, linked lists, trees, and more.
+  - Helped teach Java to introductory computer science students, including basic programming and OOP principles
+such as objects, arrays, loops, and more.
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+  - Backend: Python (Django), Golang, Docker
+  - Frontend: HTMX, HTML/CSS, Bootstrap
+  - Linux Proficiency (Debian)
