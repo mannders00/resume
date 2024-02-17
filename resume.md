@@ -13,28 +13,28 @@ Full Stack Engineer specializing in Python, Go, and Docker.
 
 A comprehensive full stack boilerplate designed to streamline web app development, deployment, validation, and monetization.
 
-   - Engineered and launched a full stack application leveraging Django, EC2, and Docker, from concept to market.
-   - Cultivated a community and secured multiple paid subscriptions, demonstrating market validation.
+   - Engineered and launched a full stack boilerplate using Django, EC2, and Docker, reducing development time by over 75% for subsequent projects.
+   - Cultivated a community and secured several paid subscriptions, demonstrating market validation.
    - Mastered full stack development, from Linux server management to creating a monetized, user-centric application.
 
 ### <span>[BlueProject](https://www.blueproject.info/)</span> <span>May 2023</span>
 
 An innovative project planner utilizing Generative AI to generate tasks, visuals, and outlines for project ideation.
 
-  - Pioneered a proof-of-concept leveraging OpenAI APIs, creating a project planner with GPT-3.5 and DALL-E 2.
+  - Utilized OpenAI's GPT and DALL-E APIs to automate the generation of project tasks and visuals, streamlining project ideation.
   - Developed and deployed the application using Golang stdlib, OpenAI APIs, Ory Kratos, and Linux.
 
 ### <span>[Linux](https://github.com/mannders00/dotfiles)</span> <span>2016 -- Present</span>
 
+  - Adopted neovim enhanced with custom configurations and LSP support for optimal development workflow.
   - Opted for Debian for server and desktop use due to its stability and performance.
   - Assembled a custom desktop environment using Arch Linux with i3, tailored for efficiency.
-  - Adopted neovim enhanced with custom configurations and LSP support for optimal development workflow.
 
 ## Experience
 
 ### <span>Software Engineer, TIBCO Software </span> <span>May 2020 -- Present</span>
 
- - Quickly elevated to lead maintainer of MSGMX, enhancing the Python CLI tool for efficient messaging system management.
+  - Promoted to Lead Maintainer of MSGMX, I led the initiative to replace complex installation methods with user-friendly bundled Python executables, optimizing the product's accessibility and user engagement.
  - Engineered GitHub Actions CI/CD pipelines for automated cloud builds and tests, saving countless hours of manual building and testing.
 
 ### <span>Self Driving Research, IIT MMAE Department</span> <span>October 2019 -- December 2020</span>
