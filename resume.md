@@ -1,6 +1,6 @@
 # Matt Anderson
 
-- <matta00@protonmail.com>
+- <matta00@pm.me>
 - (224) 636-3719
 - [manders.us](https://www.manders.us/)
 - Chicago, IL
