@@ -5,24 +5,24 @@
 - [manders.us](https://www.manders.us/)
 - Chicago, IL
 
-Full Stack Engineer specializing in Go, Python, and Docker.
+Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 
 ## Experience
 
-### <span>[DeploySolo](https://deploysolo.com)</span> <span>Jan 2024 -- Present</span>
-
-SaaS for Indie Go Devs Made Easy
-
-   - Engineered and launched a SaaS starter kit using Go, htmx, and TailwindCSS, enabling more indie devs to launch their passion projects.
-   - Cultivated a community and secured paid subscriptions, demonstrating market validation and interest.
-   - Independently built a simplified full software stack from first principles, proving the ability to reduce complexity.
-
-### <span>TIBCO Software, Software Engineer </span> <span>May 2020 -- Present</span>
+### <span>Cloud Software Group, Senior Software Engineer </span> <span>May 2020 -- Present</span>
 
   - Lead maintainer of MSGMX, a Python CLI tool designed to streamline the management of messaging platforms like Kafka, Pulsar, and EMS. 
-  - Replaced complex installation methods with portable Python executables, vastly improving user experience.
+  - Refactored complex installation methods to portable Python executables, vastly improving user experience.
   - Created GitHub Actions CI/CD pipelines for automated cloud builds and tests, saving countless hours of manual building and testing.
-  - Helped manually update the TIBCO FTL UI, practicing Angular with a Go HTTP backend.
+  - Migrated the TIBCO FTL UI from AngularJS to Angular, with a custom Go backend API.
+
+### <span>[DeploySolo](https://deploysolo.com)</span> <span>Jan 2024 -- Present</span>
+
+The Simplest Path to SaaS
+
+   - Engineered and launched a SaaS starter kit using Go, htmx, and Bootstrap, enabling more indie devs to launch their passion projects.
+   - Independently built a simplified full software stack from first principles, proving the ability to self start a novel idea.
+   - Cultivated a community and secured paid subscriptions, demonstrating market validation and interest.
 
 ### <span>[Linux](https://github.com/mannders00/dotfiles)</span> <span>2016 -- Present</span>
 
@@ -55,3 +55,4 @@ such as objects, arrays, loops, and more.
   - Backend: Golang, Python (Django), Docker
   - Frontend: HTMX, HTML/CSS, Bootstrap, TS, Angular
   - Infra: Linux, Docker
+  - DevOps: GitHub Actions
