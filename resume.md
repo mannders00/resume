@@ -9,7 +9,7 @@ Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 
 ## Experience
 
-### <span>Cloud Software Group, Senior Software Engineer </span> <span>May 2020 -- Present</span>
+### <span>[Cloud Software Group, Senior Software Engineer](https://www.cloud.com/) </span> <span>May 2020 -- Present</span>
 
   - Lead maintainer of MSGMX, a Python CLI tool designed to streamline the management of messaging platforms like Kafka, Pulsar, and EMS. 
   - Refactored complex installation methods to portable Python executables, vastly improving user experience.
@@ -30,7 +30,7 @@ The Simplest Path to SaaS
   - Opted for Debian for server and desktop use due to its stability and performance.
   - Assembled a custom desktop environment using Arch Linux with i3, tailored for efficiency.
 
-### <span>Self Driving Research, IIT MMAE Department</span> <span>October 2019 -- December 2020</span>
+### <span>[Self Driving Research, IIT MMAE Department](https://manders.us/project/driving-simulator)</span> <span>October 2019 -- December 2020</span>
 
   - Led software development within a multidisciplinary team of 5, creating a realistic driving simulator with dynamic, interactive traffic scenarios.
   - Programmed the simulator using C# and Unity3D, incorporating moving vehicles and variable traffic signals for immersive realism.
