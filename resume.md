@@ -30,7 +30,7 @@ Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 
 - Adopted neovim enhanced with custom configurations and LSP support for optimal development workflow, improving coding efficiency.
 - Opted for Debian for server and desktop use due to its stability and performance, ensuring reliable operations.
-- Assembled a custom desktop environment using Arch and i3, learning the Linux desktop from first principles.
+- Assembled a custom desktop using Arch and i3, learning the architecture of a Linux system from first principles.
 
 ### [Self-Driving Research, IIT MMAE Department](https://manders.us/project/driving-simulator) <span>October 2019 -- December 2020</span>
 
