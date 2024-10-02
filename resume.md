@@ -12,8 +12,8 @@ Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 ### <span>[Cloud Software Group, Senior Software Engineer](https://www.cloud.com/) </span> <span>May 2020 -- Present</span>
 
   - Lead maintainer of MSGMX, a Python CLI tool designed to streamline the management of messaging platforms like Kafka, Pulsar, and EMS. 
-  - Refactored complex installation methods to portable Python executables, vastly improving user experience.
-  - Created GitHub Actions CI/CD pipelines for automated cloud builds and tests, saving countless hours of manual building and testing.
+  - Refactored complex installation methods to portable Python executables, vastly improving customer onboarding.
+  - Created GitHub Actions CI/CD pipelines for automated cloud builds and tests, saving days of manual human effort.
   - Migrated the TIBCO FTL UI from AngularJS to Angular, with a custom Go backend API.
 
 ### <span>[DeploySolo](https://deploysolo.com)</span> <span>Jan 2024 -- Present</span>
