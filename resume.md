@@ -16,7 +16,7 @@ Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 - Lead maintainer of MSGMX, a Python CLI tool designed to streamline the management of messaging platforms like Kafka, Pulsar, and EMS, providing increased operational efficiency for clients.
 - Refactored complex installation methods into portable Python executables, vastly improving customer onboarding and reducing setup time by 80%.
 - Created GitHub Actions CI/CD pipelines for automated cloud builds and tests, saving days of manual human effort per release.
-- Migrated the TIBCO FTL UI from AngularJS to Angular with a custom Go backend API, enhancing application performance and maintainability.
+- Migrated the TIBCO FTL UI from AngularJS to Angular with a custom Go backend API, enhancing application security and maintainability.
 
 ### [DeploySolo](https://deploysolo.com) <span>Jan 2024 -- Present</span>
 
