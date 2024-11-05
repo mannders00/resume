@@ -3,6 +3,8 @@
 - <matta00@pm.me>
 - (224) 636-3719
 - [manders.us](https://www.manders.us/)
+- [𝕏](https://x.com/mannders)
+- [LinkedIn](https://www.linkedin.com/in/matthew-j-anderson)
 - Chicago, IL
 
 Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
