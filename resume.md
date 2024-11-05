@@ -22,7 +22,7 @@ Full Stack Engineer specializing in Go, Python, Linux, Web, and Containers.
 
 *The Simplest Path to SaaS*
 
-- Conceptualized, engineered, and launched a SaaS starter kit using Go and htmx, generating over $1,000 in revenue from satisfied customers and empowering indie developers to deploy their ideas faster.
+- Conceptualized, engineered, and marketed a SaaS starter kit using Go and htmx, generating over $1,000 in revenue from satisfied customers and empowering indie developers to deploy their ideas to AWS EC2.
 - Independently built a simplified full software stack from first principles, leading to a successful product launch and proving the ability to self-start a novel idea.
 - Cultivated a community and secured paid subscriptions, demonstrating market validation and interest, laying the foundation for future growth.
 
